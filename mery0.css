@@ -1,0 +1,8 @@
+/*.a{
+    background-color: coral;
+    width: 50%;
+    height:500px;
+}*/ .img:hover {
+    cursor: pointer;
+   opacity: 0.5;;
+}
